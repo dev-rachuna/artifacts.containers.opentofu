@@ -1,0 +1,8 @@
+![GitLab Stars](https://img.shields.io/gitlab/stars/dev.rachuna/artifacts/containers/opentofu)
+![GitLab Forks](https://img.shields.io/gitlab/forks/dev.rachuna/artifacts/containers/opentofu)
+![Repository Type](https://img.shields.io/badge/Repository%20type-image%20builder-yellow)
+![GitLab Release](https://img.shields.io/gitlab/v/release/dev.rachuna/artifacts/containers/opentofu)
+![Gitlab Pipeline Status](https://img.shields.io/gitlab/pipeline-status/dev.rachuna/artifacts/containers/opentofu)
+![GitLab Issues](https://img.shields.io/gitlab/issues/open/dev.rachuna/artifacts/containers/opentofu)
+![GitLab Merge Requests](https://img.shields.io/gitlab/merge-requests/open/dev.rachuna/artifacts/containers/opentofu)
+![GitLab Contributors](https://img.shields.io/gitlab/contributors/dev.rachuna/artifacts/containers/opentofu)
